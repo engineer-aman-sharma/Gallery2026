@@ -12,24 +12,24 @@ The app is built around simple everyday actions - finding media, viewing it, org
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/Screenshot_A.jpg" width="100%" alt="Screenshot A"></td>
-    <td align="center"><img src="screenshots/Screenshot_B.jpg" width="100%" alt="Screenshot B"></td>
-    <td align="center"><img src="screenshots/Screenshot_C.jpg" width="100%" alt="Screenshot C"></td>
+    <td align="center"><img src="screenshots/Screenshot_A_.jpg" width="100%" alt="Screenshot A"></td>
+    <td align="center"><img src="screenshots/Screenshot_B_.jpg" width="100%" alt="Screenshot B"></td>
+    <td align="center"><img src="screenshots/Screenshot_C_.jpg" width="100%" alt="Screenshot C"></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/Screenshot_D.jpg" width="100%" alt="Screenshot D"></td>
-    <td align="center"><img src="screenshots/Screenshot_E.jpg" width="100%" alt="Screenshot E"></td>
-    <td align="center"><img src="screenshots/Screenshot_F.jpg" width="100%" alt="Screenshot F"></td>
+    <td align="center"><img src="screenshots/Screenshot_D_.jpg" width="100%" alt="Screenshot D"></td>
+    <td align="center"><img src="screenshots/Screenshot_E_.jpg" width="100%" alt="Screenshot E"></td>
+    <td align="center"><img src="screenshots/Screenshot_F_.jpg" width="100%" alt="Screenshot F"></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/Screenshot_G.jpg" width="100%" alt="Screenshot G"></td>
-    <td align="center"><img src="screenshots/Screenshot_H.jpg" width="100%" alt="Screenshot H"></td>
-    <td align="center"><img src="screenshots/Screenshot_I.jpg" width="100%" alt="Screenshot I"></td>
+    <td align="center"><img src="screenshots/Screenshot_G_.jpg" width="100%" alt="Screenshot G"></td>
+    <td align="center"><img src="screenshots/Screenshot_H_.jpg" width="100%" alt="Screenshot H"></td>
+    <td align="center"><img src="screenshots/Screenshot_I_.jpg" width="100%" alt="Screenshot I"></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/Screenshot_J.jpg" width="100%" alt="Screenshot J"></td>
-    <td align="center"><img src="screenshots/Screenshot_K.jpg" width="100%" alt="Screenshot K"></td>
-    <td align="center"><img src="screenshots/Screenshot_L.jpg" width="100%" alt="Screenshot L"></td>
+    <td align="center"><img src="screenshots/Screenshot_J_.jpg" width="100%" alt="Screenshot J"></td>
+    <td align="center"><img src="screenshots/Screenshot_K_.jpg" width="100%" alt="Screenshot K"></td>
+    <td align="center"><img src="screenshots/Screenshot_L_.jpg" width="100%" alt="Screenshot L"></td>
   </tr>
 </table>
 
