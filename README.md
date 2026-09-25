@@ -142,6 +142,13 @@ This includes filtering, sorting, favorites, sharing, album organization, trash,
 
 ---
 
+## Project Details
+
+- Package Name: `com.gallery.glass.nine`
+- Status: Client Project — UI, features, and availability may change in the future.
+
+---
+
 ## Version
 
 **Version 1.0**
